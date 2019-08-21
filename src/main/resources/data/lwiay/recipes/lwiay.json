@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "lwiay:letter_l"
+    },
+    {
+      "item": "lwiay:letter_w"
+    },
+    {
+      "item": "lwiay:letter_i"
+    },
+    {
+      "item": "lwiay:letter_a"
+    },
+    {
+      "item": "lwiay:letter_y"
+    }
+  ],
+  "result": {
+    "item": "lwiay:lwiay",
+    "count": 1
+  }
+}

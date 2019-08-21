@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "lwiay",
+  "version": "${version}",
+
+  "name": "LWIAY",
+  "description": "Put your entries in the subreddit, bros!",
+  "authors": [
+    "u/DeltaTwoForce"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/lwiay/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "me.delta2force.lwiay.LwiayMod"
+    ]
+  },
+  "mixins": [
+    "lwiay.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.4.0",
+    "fabric": "*"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "W W",
+    "W W",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:green_dye"
+    }
+  },
+  "result": {
+    "item": "lwiay:letter_w",
+    "count": 1
+  }
+}

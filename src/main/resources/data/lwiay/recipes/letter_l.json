@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "L  ",
+    "L  ",
+    "LL "
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:red_dye"
+    }
+  },
+  "result": {
+    "item": "lwiay:letter_l",
+    "count": 1
+  }
+}

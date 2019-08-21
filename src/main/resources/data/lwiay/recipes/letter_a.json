@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "AAA",
+    "A A"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:purple_dye"
+    }
+  },
+  "result": {
+    "item": "lwiay:letter_a",
+    "count": 1
+  }
+}

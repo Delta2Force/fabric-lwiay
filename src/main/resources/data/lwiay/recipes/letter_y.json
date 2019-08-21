@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "Y Y",
+    " Y ",
+    " Y "
+  ],
+  "key": {
+    "Y": {
+      "item": "minecraft:yellow_dye"
+    }
+  },
+  "result": {
+    "item": "lwiay:letter_y",
+    "count": 1
+  }
+}
